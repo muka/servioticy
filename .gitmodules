@@ -1,0 +1,21 @@
+[submodule "servioticy-api-commons"]
+	path = servioticy-api-commons
+	url = https://github.com/muka/servioticy-api-commons.git
+[submodule "servioticy-dispatcher"]
+	path = servioticy-dispatcher
+	url = https://github.com/muka/servioticy-dispatcher.git
+[submodule "servioticy-api-public"]
+	path = servioticy-api-public
+	url = https://github.com/muka/servioticy-api-public.git
+[submodule "servioticy-api-private"]
+	path = servioticy-api-private
+	url = https://github.com/muka/servioticy-api-private.git
+[submodule "servioticy-datamodel"]
+	path = servioticy-datamodel
+	url = https://github.com/muka/servioticy-datamodel.git
+[submodule "servioticy-rest-client"]
+	path = servioticy-rest-client
+	url = https://github.com/muka/servioticy-rest-client.git
+[submodule "servioticy-queue-client"]
+	path = servioticy-queue-client
+	url = https://github.com/muka/servioticy-queue-client.git
