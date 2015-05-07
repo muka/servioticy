@@ -24,7 +24,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
   <modules>
 		<module>servioticy-rest-client</module>
 		<module>servioticy-queue-client</module>
-		<module>servioticy-dispatcher</module>
+<!--		<module>servioticy-dispatcher</module> -->
 		<module>servioticy-datamodel</module>
 		<module>servioticy-api-public</module>
 		<module>servioticy-api-private</module>
