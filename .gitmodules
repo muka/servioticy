@@ -19,3 +19,6 @@
 [submodule "servioticy-queue-client"]
 	path = servioticy-queue-client
 	url = https://github.com/muka/servioticy-queue-client.git
+[submodule "servioticy-configmanager"]
+	path = servioticy-configmanager
+	url = https://github.com/muka/servioticy-configmanager.git
