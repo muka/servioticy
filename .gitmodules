@@ -22,3 +22,6 @@
 [submodule "servioticy-configmanager"]
 	path = servioticy-configmanager
 	url = https://github.com/muka/servioticy-configmanager.git
+[submodule "servioticy-internalpublisher"]
+	path = servioticy-internalpublisher
+	url = https://github.com/muka/servioticy-internalpublisher.git
