@@ -15,19 +15,21 @@
 -->
 
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-  <modelVersion>4.0.0</modelVersion>
-  <groupId>com.servioticy</groupId>
-  <artifactId>servioticy</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
-  <packaging>pom</packaging>
-  <modules>
-		<module>servioticy-rest-client</module>
-		<module>servioticy-queue-client</module>
-		<module>servioticy-dispatcher</module>
-		<module>servioticy-datamodel</module>
-		<module>servioticy-api-public</module>
-		<module>servioticy-api-private</module>
-		<module>servioticy-api-commons</module>
-	</modules>
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.servioticy</groupId>
+    <artifactId>servioticy</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>servioticy-configmanager</module>
+        <module>servioticy-internalpublisher</module>        
+        <module>servioticy-rest-client</module>
+        <module>servioticy-queue-client</module>
+        <module>servioticy-dispatcher</module>
+        <module>servioticy-datamodel</module>
+        <module>servioticy-api-public</module>
+        <module>servioticy-api-private</module>
+        <module>servioticy-api-commons</module>
+    </modules>
 </project>
