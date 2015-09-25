@@ -1,9 +1,6 @@
 [submodule "servioticy-api-commons"]
 	path = servioticy-api-commons
 	url = https://github.com/muka/servioticy-api-commons.git
-[submodule "servioticy-dispatcher"]
-	path = servioticy-dispatcher
-	url = https://github.com/muka/servioticy-dispatcher.git
 [submodule "servioticy-api-public"]
 	path = servioticy-api-public
 	url = https://github.com/muka/servioticy-api-public.git
@@ -28,3 +25,6 @@
 [submodule "compose-java-client"]
 	path = compose-java-client
 	url = https://github.com/muka/compose-java-client.git
+[submodule "servioticy-dispatcher"]
+	path = servioticy-dispatcher
+	url = https://github.com/muka/servioticy-dispatcher.git
