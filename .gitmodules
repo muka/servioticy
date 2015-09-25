@@ -25,3 +25,6 @@
 [submodule "servioticy-internalpublisher"]
 	path = servioticy-internalpublisher
 	url = https://github.com/muka/servioticy-internalpublisher.git
+[submodule "compose-java-client"]
+	path = compose-java-client
+	url = https://github.com/muka/compose-java-client.git

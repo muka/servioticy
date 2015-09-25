@@ -22,6 +22,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
+        <module>compose-java-client</module>
         <module>servioticy-configmanager</module>
         <module>servioticy-internalpublisher</module>        
         <module>servioticy-rest-client</module>
