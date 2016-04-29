@@ -25,11 +25,10 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
                 <module>servioticy-configmanager</module>
                 <module>servioticy-internalpublisher</module>
 		<module>servioticy-rest-client</module>
-		<module>servioticy-queue-client</module>
 <!--		<module>servioticy-dispatcher</module> -->
 		<module>servioticy-datamodel</module>
 		<module>servioticy-api-public</module>
-		<module>servioticy-api-private</module>
 		<module>servioticy-api-commons</module>
-	</modules>
+    <module>../raptor-dispatcher</module>
+  </modules>
 </project>
